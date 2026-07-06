@@ -3,7 +3,7 @@
 Welcome to **StudyMentor** (formerly Aura Study Hub) – a premium, visually stunning, and highly interactive Single-Page Application (SPA) designed to elevate student productivity. Built using modern glassmorphic aesthetics, fluid micro-interactions, and robust offline-first sound synthesis capabilities, StudyMentor offers a personalized focus ecosystem.
 
 ---
-
+##this is good
 ## 🗺️ Architectural Workflow & Data Flows
 
 ### 1. Scholar Onboarding & State Initialization Flow
